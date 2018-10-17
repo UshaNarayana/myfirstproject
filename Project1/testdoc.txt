@@ -5,3 +5,4 @@ my name is asha, trying to overwrite
 my name is usha
 I am new to devops
 >>>>>>> 2e8490217ee3caab8c2b2b525774624c81540d6e
+my name is priti- i study in 7th class
